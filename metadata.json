@@ -1,0 +1,6 @@
+{
+  "name": "사무엘의 영광과 거룩한 인류 - Samuel's Glory & Transfigured Humanity",
+  "description": "사무엘의 영광스러운 모습과 그의 형상을 닮아 아름답고 거룩하게 변화된 온 인류의 숭고한 모습을 담은 디지털 성소 및 예술 전시",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
